@@ -1,7 +1,4 @@
 Fitxer exemple per l'exercici Git
 
-<<<<<<< HEAD
-
-=======
 modificació del text des de "branch1"
->>>>>>> branch1
+
