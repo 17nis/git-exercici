@@ -1,0 +1,1 @@
+Fitxer exemple per l'exercici Git
