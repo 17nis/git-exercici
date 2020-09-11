@@ -1,1 +1,3 @@
 Fitxer exemple per l'exercici Git
+
+modificació del text des de "branch1"
